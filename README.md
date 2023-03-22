@@ -4,7 +4,7 @@
 
 In this project, students were given the task to modify a starter code to develop agile project management skills. This code took the form of a Mock-up web application with HTML and CSS properties. To successfully complete this task students needed to input semantic HTML elements, organize elements to follow a logical structure, input accessible alt attributes, correct heading attributes in sequential order, and title elements concisely and descriptive. 
 
-Starting this project was difficult as I didn't know exactly how an HTML index and CSS should look like when following optimization standards for Search Engines and people with visual impairment. I managed to ask AskBCS assistants for help and they showed me how HTML and CSS should look like. I then added proper semantic elements in HTML, add alt attributes to images in HTML, compress and organize CSS elements, and add comments in CSS. Overall I was proud to know that when I was done with this project I could understood the basic elements of HTML and CSS and how to properly format and comment when creating a website.
+Starting this project was difficult, as I didn't know exactly how an HTML index and CSS should look like when following optimization standards for Search Engines and for people with visual impairment. I managed to ask AskBCS assistants for help and they explained to me how HTML and CSS should look like for optimization standards. I then added proper semantic elements in HTML, added alt attributes to images in HTML, compress and organize CSS elements, and added comments in CSS. Overall I was proud to know that when I was done with this project I could understood the basic elements of HTML and CSS and how to properly format and comment when creating a website.
 
 ## Installation
 
